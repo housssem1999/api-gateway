@@ -1,0 +1,11 @@
+# IDE-specific files and directories
+.idea/
+.project
+.classpath
+.settings/
+
+# Build artifacts
+target/
+
+# Log files
+logs/
